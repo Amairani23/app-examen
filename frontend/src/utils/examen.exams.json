@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Examen Contabilidad",
+    "preguntas": [
+      {
+        "statement": "El saldo inicial de Bancos es de $850,00.00",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cargo"
+          },
+          {
+            "id": "b",
+            "text": "Abono"
+          },
+          {
+            "id": "c",
+            "text": "No se registra"
+          },
+          {
+            "id": "d",
+            "text": "Se registra en ambas columnas"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "statement": "Se pagó al proveedor INMOBILIARIA SA la cantidad de $17,700.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cargo"
+          },
+          {
+            "id": "b",
+            "text": "Abono"
+          },
+          {
+            "id": "c",
+            "text": "No se registra"
+          },
+          {
+            "id": "d",
+            "text": "Se registra en ambas columnas"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "statement": "Se vendió una máquina envasadora y se cobró la cantidad de $120,000.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cargo"
+          },
+          {
+            "id": "b",
+            "text": "Abono"
+          },
+          {
+            "id": "c",
+            "text": "No se registra"
+          },
+          {
+            "id": "d",
+            "text": "Se registra en ambas columnas"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "statement": "Se entregaron viáticos por viaje a Monterrey al vendedor Javier Barrera por $70,000.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cargo"
+          },
+          {
+            "id": "b",
+            "text": "Abono"
+          },
+          {
+            "id": "c",
+            "text": "No se registra"
+          },
+          {
+            "id": "d",
+            "text": "Se registra en ambas columnas"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "statement": "El cliente ZAZA SA pagó por un servicio la cantidad de $25,000.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cargo"
+          },
+          {
+            "id": "b",
+            "text": "Abono"
+          },
+          {
+            "id": "c",
+            "text": "No se registra"
+          },
+          {
+            "id": "d",
+            "text": "Se registra en ambas columnas"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ]
+  }
+]
